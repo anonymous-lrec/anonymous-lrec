@@ -2,7 +2,7 @@
 
 The uploaded json file is our train sample data. For the source data (The Disaster Safety Information Sign Language Video Dataset), the path is shown below.
 
-(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=636)
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=636
 
 Our benchmark data (SSL:korean disaster Safety information Sign Language translation bechmark dataset) will be released after the review.
 Because our paper is under review.
